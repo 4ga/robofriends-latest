@@ -1,4 +1,4 @@
-# RoboFriends + Vite
+# RoboFriends - React + Vite
 
 This implementation was created React classes and functional components.
 
